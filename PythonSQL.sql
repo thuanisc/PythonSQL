@@ -1,0 +1,7 @@
+CREATE DATABASE PythonSQL;
+
+USE PythonSQL;
+
+SHOW TABLES;
+
+DESCRIBE usuarios;
